@@ -1,0 +1,16 @@
+html {
+  background-color: rgba(84, 147, 163, 0.884);
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(95, 107, 109);
+}
+#showViz {
+  display: none;
+}
+
+button:hover {
+  background-color: lightblue;
+}
